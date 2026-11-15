@@ -86,7 +86,7 @@ Hasil tersebut memberikan gambaran awal mengenai aktivitas penjualan. Visualisas
 
 Dashboard CASE1 dapat diakses melalui Streamlit Community Cloud.
 
-**Link Dashboard:** Akan ditambahkan setelah proses deployment selesai.
+**Link Dashboard:** https://case1-visualisasi-penjualan-yenseason.streamlit.app/
 
 ## 9. Struktur Folder
 
